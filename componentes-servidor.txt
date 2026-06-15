@@ -1,0 +1,5 @@
+- Sistema operativo: Provee la infraestructura base y gestiona los recursos de hardware donde corre el entorno de ejecución.
+- Node.js: Entorno de ejecución para Javascript en el backend que permite procesar solicitudes de manera asíncrona y eficiente.
+- Aplicación server.js: Archivo de código fuente que define las rutas de la API y la lógica de negocio del servidor.
+- Puerto: Canal o punto virtual específico (en este caso el 3000) por el cual el servidor escucha el tráfico entrante.
+- Logs: Registros históricos de eventos, accesos y errores del sistema indispensables para auditorías y mantenimiento.

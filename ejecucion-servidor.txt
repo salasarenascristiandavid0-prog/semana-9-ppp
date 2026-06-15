@@ -1,0 +1,3 @@
+- Qué ocurre cuando ejecutas node server.js: El proceso se queda escuchando de forma activa en la terminal y levanta el servidor local.
+- Qué mensaje aparece en la terminal: "Servidor ejecutándose en puerto 3000".
+- Qué sucede cuando visitas la ruta /estado: El navegador muestra un objeto JSON con el estado "Servidor funcionando" y el servicio "API comunitaria".
