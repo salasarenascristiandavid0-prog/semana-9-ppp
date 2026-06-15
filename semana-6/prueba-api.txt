@@ -1,3 +1,0 @@
-estado: "Datos recibidos",
-    nombre:"Cristian",
-    mensaje:"hola a todos",

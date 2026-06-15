@@ -1,4 +1,0 @@
-{
-  "tipo": "Caida del servidor",
-  "descripcion": "Error de conexión rechazada debido a que el servicio se detuvo de forma inesperada o el puerto está ocupado.."
-}
