@@ -1,8 +1,0 @@
-Las APIs actúan como puentes tecnológicos que permiten centralizar y organizar el flujo de información dentro de 
-una comunidad. Al estandarizar la forma en que se envían los datos, facilitan que cualquier usuario reporte 
-incidentes, alertas de seguridad o necesidades locales desde diversas aplicaciones móviles o plataformas web en 
-tiempo real. Esta información no se queda aislada, sino que se almacena de manera estructurada en un servidor 
-central, permitiendo que los líderes comunitarios o servicios de emergencia visualicen los reportes en un tablero 
-de control organizado. Además, gracias a las APIs, es posible automatizar notificaciones masivas o activar alarmas 
-inmediatas ante situaciones de riesgo crítico. De este modo, se transforma la comunicación informal en un sistema 
-colaborativo, eficiente, transparente y con capacidad de respuesta rápida para el bienestar de todos.
